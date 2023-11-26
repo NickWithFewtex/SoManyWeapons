@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "somanyweapons:ender_diamond"
+    }
+  },
+  "pattern": [
+    "E",
+    "E"
+  ],
+  "result": {
+    "item": "somanyweapons:ender_stick"
+  },
+  "show_notification": true
+}

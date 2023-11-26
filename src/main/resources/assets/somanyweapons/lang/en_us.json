@@ -1,0 +1,16 @@
+{
+  "item.somanyweapons.ender_diamond": "Ender Diamond",
+  "item.somanyweapons.ender_stick": "Ender Stick",
+  "item.somanyweapons.ender_sword": "Ender Diamond Sword",
+
+  "item.somanyweapons.toilet": "Toilet",
+  "item.somanyweapons.wooden_chair": "Wooden Chair",
+
+  "tooltip.somanyweapons.toilet.stinky_effect": "Stinky: ",
+  "tooltip.somanyweapons.toilet.stinky_level": "10000000",
+  "tooltip.somanyweapons.wooden_chair.tooltip": "Smash this over a mobs head only 1 durability, make it count.",
+
+  "itemgroup.so_many_weapons_tab": "So Many Weapons",
+  "itemgroup.so_many_weapons_material": "So Many Weapons Materials",
+  "itemgroup.so_many_silly_weapons_tab": "So Many Silly Weapons"
+}
